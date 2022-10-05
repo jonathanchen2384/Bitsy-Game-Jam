@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: f92b9fb41f9da4055b0d037cb89f5651
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: plantWaterProps copy_0
+  - first:
+      213: 21300002
+    second: plantWaterProps copy_1
+  - first:
+      213: 21300004
+    second: plantWaterProps copy_2
+  - first:
+      213: 21300006
+    second: plantWaterProps copy_3
+  - first:
+      213: 21300008
+    second: plantWaterProps copy_4
+  - first:
+      213: 21300010
+    second: plantWaterProps copy_5
+  - first:
+      213: 21300012
+    second: plantWaterProps copy_6
+  - first:
+      213: 21300014
+    second: plantWaterProps copy_7
+  - first:
+      213: 21300016
+    second: plantWaterProps copy_8
+  - first:
+      213: 21300018
+    second: plantWaterProps copy_9
+  - first:
+      213: 21300020
+    second: plantWaterProps copy_10
+  - first:
+      213: 21300022
+    second: plantWaterProps copy_11
+  - first:
+      213: 21300024
+    second: plantWaterProps copy_12
+  - first:
+      213: 21300026
+    second: plantWaterProps copy_13
+  - first:
+      213: 21300028
+    second: plantWaterProps copy_14
+  - first:
+      213: 21300030
+    second: plantWaterProps copy_15
+  - first:
+      213: 21300032
+    second: plantWaterProps copy_16
+  - first:
+      213: 21300034
+    second: plantWaterProps copy_17
+  - first:
+      213: 21300036
+    second: plantWaterProps copy_18
+  - first:
+      213: 21300038
+    second: plantWaterProps copy_19
+  - first:
+      213: 21300040
+    second: plantWaterProps copy_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plantWaterProps copy_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 995
+        width: 279
+        height: 150
+      alignment: 9
+      pivot: {x: 0.9686313, y: 0.5221598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d195276020c354186a1d9bb110e1e69e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 958
+        width: 303
+        height: 200
+      alignment: 9
+      pivot: {x: 0.057517175, y: 0.16204864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee5dc6f69df843089f9d483b7906ea8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_2
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1100
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1711642bdda433c945dedffede8d1a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_3
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1103
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d92337556f8a48fb8d29af7809dcd46
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 870
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40878d932c37499bb06b2e0a26346a3
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 804
+        width: 544
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a63b4abe2da4c07829e502e1d0d698
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_6
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 798
+        width: 311
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae80b7200dac749468acc799a1d095c1
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 340
+        width: 153
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575dca2f1c79a46a09374f1f92f0b223
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_8
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 246
+        width: 519
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac1e2754f8544e5ba03ad215e68f6d6
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_9
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 781
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a8720a974ca442889976eb9ced54f9
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_10
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 782
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f15a6fecac0483f89eeca2ff45d1f7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 678
+        width: 422
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845dd352b5b204597a48d3b2f14fef58
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 503
+        width: 206
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4e6e75bd70044788d48795e3b5eda6
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_13
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 552
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904b56244533f461c87734d411cffdd0
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_14
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 546
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5461fb1c2d5e74167b0def81ca8db40e
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_15
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 527
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baad1cd999a74c319e427130996d065
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_16
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 528
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cec489ba1944c7cbe17f73ae6af089
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_17
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 405
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e1f30be63a048d3a6ba38434c89074
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 382
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683fcc746c59e4f42bc7eac1cd9beabb
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 64
+        width: 203
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09748149d2064dc491d9fcbc90b334d
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantWaterProps copy_20
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1099
+        width: 130
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa88f639d19c4b6dbad170d537fee0d
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3f3fe0643c0ca4133a45cad6583bd93e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
